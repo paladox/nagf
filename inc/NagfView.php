@@ -236,7 +236,7 @@ document.documentElement.className.replace( /(^|\s)no-js(\s|$)/, '$1js$2' );
 <div class="container">
 {$pageHtml}
 </div>
-<script src="./lib/jquery-1.11.2/jquery.min.js"></script>
+<script src="./lib/jquery-1.11.3/jquery.min.js"></script>
 <script src="./lib/bootstrap-3.3.4/js/bootstrap.min.js"></script>
 <script src="./lib/jquery-cookie/jquery.cookie.js"></script>
 <script src="./main.js"></script>
